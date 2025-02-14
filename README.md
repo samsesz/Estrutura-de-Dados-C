@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-C
-Material aula fatec
+Material de aula fatec
