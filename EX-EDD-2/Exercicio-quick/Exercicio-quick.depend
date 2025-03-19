@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741999435 source:c:\users\fatec-dsm2\desktop\ex-edd\exercicio-quick\main.c
+	<stdio.h>
+	<stdlib.h>
+
